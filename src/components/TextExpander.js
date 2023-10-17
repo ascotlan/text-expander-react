@@ -17,9 +17,9 @@ const handleExpansion = () => {
 
 
   const buttonStyle = {
-    backgroundColor: "transparent",
-    backgroundRepeat: "no-repeat",
+    background: "none",
     border: "none",
+    font:"inherit",
     cursor: "pointer",
     overflow: "hidden",
     outline: "none",
